@@ -8,7 +8,7 @@ This tutorial features two hands-on sessions: 1) A session on computing counterf
 
 #### Computing Counterfactuals in Python
 
-[Jupyter notebook](cf_in_python.ipynb.ipynb) <a target="_blank" href="https://colab.research.google.com/github/andreArtelt/IJCAI24-CF_Tut/blob/main/cf_in_python.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+[Jupyter notebook](0-cf_in_python.ipynb) <a target="_blank" href="https://colab.research.google.com/github/andreArtelt/IJCAI24-CF_Tut/blob/main/0-cf_in_python.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 #### USer-Study Evaluation
 
