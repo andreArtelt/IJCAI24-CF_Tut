@@ -12,4 +12,4 @@ This tutorial features two hands-on sessions: 1) A session on computing counterf
 
 #### USer-Study Evaluation
 
-TODO-Notebook
+[Jupyter notebook](CESORP_study_evaluation.ipynb) <a target="_blank" href="https://colab.research.google.com/github/andreArtelt/IJCAI24-CF_Tut/blob/main/CESORP_study_evaluation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
