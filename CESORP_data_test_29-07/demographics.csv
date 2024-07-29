@@ -1,0 +1,27 @@
+userID,cond,gender,age
+34622889,o-con,65y and older    ,male             
+94184206,o-con,18-24y           ,male             
+09372259,o-cfe,18-24y           ,male             
+73800037,o-cfe,25-34y           ,female           
+09818678,o-cfe,35-44y           ,female           
+95824755,o-con,18-24y           ,male             
+56469378,s-con,35-44y           ,female           
+54214563,s-cfe,45-54y           ,male             
+34268172,o-con,25-34y           ,non-binary       
+31044278,o-cfe,35-44y           ,non-binary       
+05855867,s-cfe,45-54y           ,male             
+16298634,s-cfe,18-24y           ,female           
+79429401,s-cfe,25-34y           ,transgender      
+58852197,o-con,35-44y           ,female           
+16405865,o-con,45-54y           ,female           
+54278145,s-cfe,35-44y           ,male             
+61164672,s-con,45-54y           ,male             
+95973901,o-cfe,18-24y           ,female           
+15418525,o-cfe,55-65y           ,male             
+27113598,s-con,25-34y           ,non-binary       
+74761933,s-con,65y and older    ,female           
+71127992,s-con,35-44y           ,male             
+89375062,o-cfe,45-54y           ,non-binary       
+73585152,s-con,35-44y           ,female           
+59994992,o-cfe,55-65y           ,female           
+37115631,o-cfe,55-65y           ,non-binary
