@@ -1,6 +1,8 @@
 ## All You Ever Need to Know About Counterfactual Explanations -- Fundamentals, Methods, & User Studies for XAI
 
-[Tutorial at IJCAI 2024](https://sites.google.com/view/tut-counterfactuals-ijcai24/)
+[Homepage](https://sites.google.com/view/tut-counterfactuals-ijcai24/)
+
+[Slides](https://github.com/andreArtelt/IJCAI24-CF_Tut/tree/main/IJCAI24-CF_Tut_slides)
 
 ### Hands-On Sessions
 
