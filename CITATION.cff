@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+authors:
+  - family-names: Artelt
+    given-names: André
+    orcid: "https://orcid.org/0000-0002-2426-3126"
+  - family-names: Keane
+    given-names: Mark T.
+    orcid: "https://orcid.org/0000-0001-7630-9598"
+  - family-names: Kuhl
+    given-names: Ulrike
+    orcid: "https://orcid.org/0000-0002-9405-918X"
+contact:
+  - family-names: Artelt
+    given-names: André
+    orcid: "https://orcid.org/0000-0002-2426-3126"
+message: "If you are using / referring to these materials in your own work, please cite it using these metadata."
+title: "All You Ever Need to Know About Counterfactual Explanations (Tutorial), 33nd International Joint Conference on Artificial Intelligence (IJCAI-24), Jeju, South Korea (August)"
+keywords:
+  - XAI
+  - tutorial
+license: MIT
+repository-code: "https://github.com/andreArtelt/IJCAI24-CF_Tut"
